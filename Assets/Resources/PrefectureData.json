@@ -1,0 +1,331 @@
+[
+	{
+		"Ordinate": 1,
+		"RomajiName": "Hokkaidou",
+		"KanjiName": "北海道",
+		"FuriganaName": "ほっかいどう",
+		"SpriteLocation": "Prefectures/Hokkaido_in_Japan_(de-facto)"
+	},
+	{
+		"Ordinate": 2,
+		"RomajiName": "Aomori",
+		"KanjiName": "青森県",
+		"FuriganaName": "あおもりけん",
+		"SpriteLocation": "Prefectures/Aomori_in_Japan"
+	},
+	{
+		"Ordinate": 3,
+		"RomajiName": "Iwate",
+		"KanjiName": "岩手県",
+		"FuriganaName": "いわてけん",
+		"SpriteLocation": "Prefectures/Iwate_in_Japan"
+	},
+	{
+		"Ordinate": 4,
+		"RomajiName": "Miyagi",
+		"KanjiName": "宮城県",
+		"FuriganaName": "みやぎけん",
+		"SpriteLocation": "Prefectures/Miyagi_in_Japan"
+	},
+	{
+		"Ordinate": 5,
+		"RomajiName": "Akita",
+		"KanjiName": "秋田県",
+		"FuriganaName": "あきたけん",
+		"SpriteLocation": "Prefectures/Akita_in_Japan"
+	},
+	{
+		"Ordinate": 6,
+		"RomajiName": "Yamagata",
+		"KanjiName": "山形県",
+		"FuriganaName": "やまがたけん",
+		"SpriteLocation": "Prefectures/Yamagata_in_Japan"
+	},
+	{
+		"Ordinate": 7,
+		"RomajiName": "Fukushima",
+		"KanjiName": "福島県",
+		"FuriganaName": "ふくしまけん",
+		"SpriteLocation": "Prefectures/Fukushima_in_Japan"
+	},
+	{
+		"Ordinate": 8,
+		"RomajiName": "Ibaraki",
+		"KanjiName": "茨城県",
+		"FuriganaName": "いばらきけん",
+		"SpriteLocation": "Prefectures/Ibaraki_in_Japan"
+	},
+	{
+		"Ordinate": 9,
+		"RomajiName": "Tochigi",
+		"KanjiName": "栃木県",
+		"FuriganaName": "とちぎけん",
+		"SpriteLocation": "Prefectures/Tochigi_in_Japan"
+	},
+	{
+		"Ordinate": 10,
+		"RomajiName": "Gunma",
+		"KanjiName": "群馬県",
+		"FuriganaName": "ぐんまけん",
+		"SpriteLocation": "Prefectures/Gunma_in_Japan"
+	},
+	{
+		"Ordinate": 11,
+		"RomajiName": "Saitama",
+		"KanjiName": "埼玉県",
+		"FuriganaName": "さいたまけん",
+		"SpriteLocation": "Prefectures/Saitama_in_Japan"
+	},
+	{
+		"Ordinate": 12,
+		"RomajiName": "Chiba",
+		"KanjiName": "千葉県",
+		"FuriganaName": "ちばけん",
+		"SpriteLocation": "Prefectures/Chiba_in_Japan"
+	},
+	{
+		"Ordinate": 13,
+		"RomajiName": "Toukyou",
+		"KanjiName": "東京都",
+		"FuriganaName": "とうきょうと",
+		"SpriteLocation": "Prefectures/Tokyo_in_Japan"
+	},
+	{
+		"Ordinate": 14,
+		"RomajiName": "Kanagawa",
+		"KanjiName": "神奈川県",
+		"FuriganaName": "かながわけん",
+		"SpriteLocation": "Prefectures/Kanagawa_in_Japan"
+	},
+	{
+		"Ordinate": 15,
+		"RomajiName": "Niigata",
+		"KanjiName": "新潟県",
+		"FuriganaName": "にいがたけん",
+		"SpriteLocation": "Prefectures/Niigata_in_Japan"
+	},
+	{
+		"Ordinate": 16,
+		"RomajiName": "Toyama",
+		"KanjiName": "富山県",
+		"FuriganaName": "とやまけん",
+		"SpriteLocation": "Prefectures/Toyama_in_Japan"
+	},
+	{
+		"Ordinate": 17,
+		"RomajiName": "Ishikawa",
+		"KanjiName": "石川県",
+		"FuriganaName": "いしかわけん",
+		"SpriteLocation": "Prefectures/Ishikawa_in_Japan"
+	},
+	{
+		"Ordinate": 18,
+		"RomajiName": "Fukui",
+		"KanjiName": "福井県",
+		"FuriganaName": "ふくいけん",
+		"SpriteLocation": "Prefectures/Fukui_in_Japan"
+	},
+	{
+		"Ordinate": 19,
+		"RomajiName": "Yamanashi",
+		"KanjiName": "山梨県",
+		"FuriganaName": "やまなしけん",
+		"SpriteLocation": "Prefectures/Yamanashi_in_Japan"
+	},
+	{
+		"Ordinate": 20,
+		"RomajiName": "Nagano",
+		"KanjiName": "長野県",
+		"FuriganaName": "ながのけん",
+		"SpriteLocation": "Prefectures/Nagano_in_Japan"
+	},
+	{
+		"Ordinate": 21,
+		"RomajiName": "Gifu",
+		"KanjiName": "岐阜県",
+		"FuriganaName": "ぎふけん",
+		"SpriteLocation": "Prefectures/Gifu_in_Japan"
+	},
+	{
+		"Ordinate": 22,
+		"RomajiName": "Shizuoka",
+		"KanjiName": "静岡県",
+		"FuriganaName": "しずおかけん",
+		"SpriteLocation": "Prefectures/Shizuoka_in_Japan"
+	},
+	{
+		"Ordinate": 23,
+		"RomajiName": "Aichi",
+		"KanjiName": "愛知県",
+		"FuriganaName": "あいちけん",
+		"SpriteLocation": "Prefectures/Aichi_in_Japan"
+	},
+	{
+		"Ordinate": 24,
+		"RomajiName": "Mie",
+		"KanjiName": "三重県",
+		"FuriganaName": "みえけん",
+		"SpriteLocation": "Prefectures/Mie_in_Japan"
+	},
+	{
+		"Ordinate": 25,
+		"RomajiName": "Shiga",
+		"KanjiName": "滋賀県",
+		"FuriganaName": "しがけん",
+		"SpriteLocation": "Prefectures/Shiga_in_Japan"
+	},
+	{
+		"Ordinate": 26,
+		"RomajiName": "Kyouto",
+		"KanjiName": "京都府",
+		"FuriganaName": "きょうとふ",
+		"SpriteLocation": "Prefectures/Kyoto_in_Japan"
+	},
+	{
+		"Ordinate": 27,
+		"RomajiName": "Oosaka",
+		"KanjiName": "大阪府",
+		"FuriganaName": "おおさかふ",
+		"SpriteLocation": "Prefectures/Osaka_in_Japan"
+	},
+	{
+		"Ordinate": 28,
+		"RomajiName": "Hyougo",
+		"KanjiName": "兵庫県",
+		"FuriganaName": "ひょうごけん",
+		"SpriteLocation": "Prefectures/Hyogo_in_Japan"
+	},
+	{
+		"Ordinate": 29,
+		"RomajiName": "Nara",
+		"KanjiName": "奈良県",
+		"FuriganaName": "ならけん",
+		"SpriteLocation": "Prefectures/Nara_in_Japan"
+	},
+	{
+		"Ordinate": 30,
+		"RomajiName": "Wakayama",
+		"KanjiName": "和歌山県",
+		"FuriganaName": "わかやまけん",
+		"SpriteLocation": "Prefectures/Wakayama_in_Japan"
+	},
+	{
+		"Ordinate": 31,
+		"RomajiName": "Tottori",
+		"KanjiName": "鳥取県",
+		"FuriganaName": "とっとりけん",
+		"SpriteLocation": "Prefectures/Tottori_in_Japan"
+	},
+	{
+		"Ordinate": 32,
+		"RomajiName": "Shimane",
+		"KanjiName": "島根県",
+		"FuriganaName": "しまねけん",
+		"SpriteLocation": "Prefectures/Shimane_in_Japan_(de-facto)"
+	},
+	{
+		"Ordinate": 33,
+		"RomajiName": "Okayama",
+		"KanjiName": "岡山県",
+		"FuriganaName": "おかやまけん",
+		"SpriteLocation": "Prefectures/Okayama_in_Japan"
+	},
+	{
+		"Ordinate": 34,
+		"RomajiName": "Hiroshima",
+		"KanjiName": "広島県",
+		"FuriganaName": "ひろしまけん",
+		"SpriteLocation": "Prefectures/Hiroshima_in_Japan"
+	},
+	{
+		"Ordinate": 35,
+		"RomajiName": "Yamaguchi",
+		"KanjiName": "山口県",
+		"FuriganaName": "やまぐちけん",
+		"SpriteLocation": "Prefectures/Yamaguchi_in_Japan"
+	},
+	{
+		"Ordinate": 36,
+		"RomajiName": "Tokushima",
+		"KanjiName": "徳島県",
+		"FuriganaName": "とくしまけん",
+		"SpriteLocation": "Prefectures/Tokushima_in_Japan"
+	},
+	{
+		"Ordinate": 37,
+		"RomajiName": "Kagawa",
+		"KanjiName": "香川県",
+		"FuriganaName": "かがわけん",
+		"SpriteLocation": "Prefectures/Kagawa_in_Japan"
+	},
+	{
+		"Ordinate": 38,
+		"RomajiName": "Ehime",
+		"KanjiName": "愛媛県",
+		"FuriganaName": "えひめけん",
+		"SpriteLocation": "Prefectures/Ehime_in_Japan"
+	},
+	{
+		"Ordinate": 39,
+		"RomajiName": "Kouchi",
+		"KanjiName": "高知県",
+		"FuriganaName": "こうちけん",
+		"SpriteLocation": "Prefectures/Kochi_in_Japan"
+	},
+	{
+		"Ordinate": 40,
+		"RomajiName": "Fukuoka",
+		"KanjiName": "福岡県",
+		"FuriganaName": "ふくおかけん",
+		"SpriteLocation": "Prefectures/Fukuoka_in_Japan"
+	},
+	{
+		"Ordinate": 41,
+		"RomajiName": "Saga",
+		"KanjiName": "佐賀県",
+		"FuriganaName": "さがけん",
+		"SpriteLocation": "Prefectures/Saga_in_Japan"
+	},
+	{
+		"Ordinate": 42,
+		"RomajiName": "Nagasaki",
+		"KanjiName": "長崎県",
+		"FuriganaName": "ながさきけん",
+		"SpriteLocation": "Prefectures/Nagasaki_in_Japan"
+	},
+	{
+		"Ordinate": 43,
+		"RomajiName": "Kumamoto",
+		"KanjiName": "熊本県",
+		"FuriganaName": "くまもとけん",
+		"SpriteLocation": "Prefectures/Kumamoto_in_Japan"
+	},
+	{
+		"Ordinate": 44,
+		"RomajiName": "Ooita",
+		"KanjiName": "大分県",
+		"FuriganaName": "おおいたけん",
+		"SpriteLocation": "Prefectures/Oita_in_Japan"
+	},
+	{
+		"Ordinate": 45,
+		"RomajiName": "Miyazaki",
+		"KanjiName": "宮崎県",
+		"FuriganaName": "みやざきけん",
+		"SpriteLocation": "Prefectures/Miyazaki_in_Japan"
+	},
+	{
+		"Ordinate": 46,
+		"RomajiName": "Kagoshima",
+		"KanjiName": "鹿児島県",
+		"FuriganaName": "かごしまけん",
+		"SpriteLocation": "Prefectures/Kagoshima_in_Japan"
+	},
+	{
+		"Ordinate": 47,
+		"RomajiName": "Okinawa",
+		"KanjiName": "沖縄県",
+		"FuriganaName": "おきなわけん",
+		"SpriteLocation": "Prefectures/Okinawa_in_Japan"
+	}
+]
