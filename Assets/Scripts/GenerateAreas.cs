@@ -34,6 +34,7 @@ public class GenerateAreas : MonoBehaviour
 
             areaRenderer = areaObject.AddComponent<SpriteRenderer>();
             areaRenderer.sprite = Resources.Load<Sprite>(areaData.SpriteLocation);
+            areaRenderer.sortingOrder = 1;
 
             areaCollider = areaObject.AddComponent<AdvancedPolygonCollider>();
         }
