@@ -2,8 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using DigitalRuby.AdvancedPolygonCollider;
 using UnityEngine;
-using Newtonsoft.Json;
 using System.IO;
+using Newtonsoft.Json;
 
 public class GenerateAreas : MonoBehaviour
 {

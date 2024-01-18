@@ -1,7 +1,7 @@
 [
 	{
 		"Ordinate": 1,
-		"RomajiName": "Hokkaidou",
+		"RomajiName": "Hokkaido",
 		"KanjiName": "北海道",
 		"FuriganaName": "ほっかいどう",
 		"SpriteLocation": "Prefectures/Hokkaido_in_Japan_(de-facto)"
@@ -85,7 +85,7 @@
 	},
 	{
 		"Ordinate": 13,
-		"RomajiName": "Toukyou",
+		"RomajiName": "Tokyo",
 		"KanjiName": "東京都",
 		"FuriganaName": "とうきょうと",
 		"SpriteLocation": "Prefectures/Tokyo_in_Japan"
@@ -176,21 +176,21 @@
 	},
 	{
 		"Ordinate": 26,
-		"RomajiName": "Kyouto",
+		"RomajiName": "Kyoto",
 		"KanjiName": "京都府",
 		"FuriganaName": "きょうとふ",
 		"SpriteLocation": "Prefectures/Kyoto_in_Japan"
 	},
 	{
 		"Ordinate": 27,
-		"RomajiName": "Oosaka",
+		"RomajiName": "Osaka",
 		"KanjiName": "大阪府",
 		"FuriganaName": "おおさかふ",
 		"SpriteLocation": "Prefectures/Osaka_in_Japan"
 	},
 	{
 		"Ordinate": 28,
-		"RomajiName": "Hyougo",
+		"RomajiName": "Hyogo",
 		"KanjiName": "兵庫県",
 		"FuriganaName": "ひょうごけん",
 		"SpriteLocation": "Prefectures/Hyogo_in_Japan"
@@ -267,7 +267,7 @@
 	},
 	{
 		"Ordinate": 39,
-		"RomajiName": "Kouchi",
+		"RomajiName": "Kochi",
 		"KanjiName": "高知県",
 		"FuriganaName": "こうちけん",
 		"SpriteLocation": "Prefectures/Kochi_in_Japan"
@@ -302,7 +302,7 @@
 	},
 	{
 		"Ordinate": 44,
-		"RomajiName": "Ooita",
+		"RomajiName": "Oita",
 		"KanjiName": "大分県",
 		"FuriganaName": "おおいたけん",
 		"SpriteLocation": "Prefectures/Oita_in_Japan"

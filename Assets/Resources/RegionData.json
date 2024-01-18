@@ -1,28 +1,28 @@
 [
 	{
 		"Ordinate": 1,
-		"RomajiName": "Hokkaidou",
+		"RomajiName": "Hokkaido",
 		"KanjiName": "北海道",
 		"FuriganaName": "ほっかいどう",
 		"SpriteLocation": "Regions/Hokkaido_in_Japan_(de-facto)"
 	},
 	{
 		"Ordinate": 2,
-		"RomajiName": "Touhoku",
+		"RomajiName": "Tohoku",
 		"KanjiName": "東北",
 		"FuriganaName": "とうほく",
 		"SpriteLocation": "Regions/Tohoku_Region_in_Japan"
 	},
 	{
 		"Ordinate": 3,
-		"RomajiName": "Kantou",
+		"RomajiName": "Kanto",
 		"KanjiName": "関東",
 		"FuriganaName": "かんとう",
 		"SpriteLocation": "Regions/Kanto_Region_in_Japan"
 	},
 	{
 		"Ordinate": 4,
-		"RomajiName": "Chuubu",
+		"RomajiName": "Chubu",
 		"KanjiName": "中部",
 		"FuriganaName": "ちゅうぶ",
 		"SpriteLocation": "Regions/Chubu_Region_in_Japan"
@@ -36,7 +36,7 @@
 	},
 	{
 		"Ordinate": 6,
-		"RomajiName": "Chuugoku",
+		"RomajiName": "Chugoku",
 		"KanjiName": "中国",
 		"FuriganaName": "ちゅうごく",
 		"SpriteLocation": "Regions/Chugoku_Region_in_Japan"
@@ -50,7 +50,7 @@
 	},
 	{
 		"Ordinate": 8,
-		"RomajiName": "Kyuushuu",
+		"RomajiName": "Kyushu",
 		"KanjiName": "九州",
 		"FuriganaName": "きゅうしゅう",
 		"SpriteLocation": "Regions/Kyushu_Region_in_Japan"
