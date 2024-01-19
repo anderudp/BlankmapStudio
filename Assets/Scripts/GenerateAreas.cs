@@ -24,13 +24,13 @@ public class GenerateAreas : MonoBehaviour
 
         foreach (AreaData areaData in areas)
         {
-            areaObject = new GameObject(areaData.RomajiName);
+            areaObject = new GameObject(areaData.LatinName);
             areaObject.transform.parent = this.transform;
 
             areaScript = areaObject.AddComponent<AreaScript>();
             areaScript.ordinate = areaData.Ordinate;
-            areaScript.kanjiName = areaData.KanjiName;
-            areaScript.furiganaName = areaData.FuriganaName;
+            areaScript.nativeName = areaData.NativeName;
+            areaScript.phoneticName = areaData.PhoneticName;
 
             areaRenderer = areaObject.AddComponent<SpriteRenderer>();
             areaRenderer.sprite = Resources.Load<Sprite>(areaData.SpriteLocation);

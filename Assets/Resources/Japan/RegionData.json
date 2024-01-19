@@ -1,0 +1,58 @@
+[
+	{
+		"Ordinate": 1,
+		"RomajiName": "Hokkaido",
+		"KanjiName": "北海道",
+		"FuriganaName": "ほっかいどう",
+		"SpriteLocation": "Japan/Regions/Hokkaido_in_Japan_(de-facto)"
+	},
+	{
+		"Ordinate": 2,
+		"RomajiName": "Tohoku",
+		"KanjiName": "東北",
+		"FuriganaName": "とうほく",
+		"SpriteLocation": "Japan/Regions/Tohoku_Region_in_Japan"
+	},
+	{
+		"Ordinate": 3,
+		"RomajiName": "Kanto",
+		"KanjiName": "関東",
+		"FuriganaName": "かんとう",
+		"SpriteLocation": "Japan/Regions/Kanto_Region_in_Japan"
+	},
+	{
+		"Ordinate": 4,
+		"RomajiName": "Chubu",
+		"KanjiName": "中部",
+		"FuriganaName": "ちゅうぶ",
+		"SpriteLocation": "Japan/Regions/Chubu_Region_in_Japan"
+	},
+	{
+		"Ordinate": 5,
+		"RomajiName": "Kansai",
+		"KanjiName": "関西",
+		"FuriganaName": "かんさい",
+		"SpriteLocation": "Japan/Regions/Kansai_Region_in_Japan"
+	},
+	{
+		"Ordinate": 6,
+		"RomajiName": "Chugoku",
+		"KanjiName": "中国",
+		"FuriganaName": "ちゅうごく",
+		"SpriteLocation": "Japan/Regions/Chugoku_Region_in_Japan"
+	},
+	{
+		"Ordinate": 7,
+		"RomajiName": "Shikoku",
+		"KanjiName": "四国",
+		"FuriganaName": "しこく",
+		"SpriteLocation": "Japan/Regions/Shikoku_Region_in_Japan"
+	},
+	{
+		"Ordinate": 8,
+		"RomajiName": "Kyushu",
+		"KanjiName": "九州",
+		"FuriganaName": "きゅうしゅう",
+		"SpriteLocation": "Japan/Regions/Kyushu_Region_in_Japan"
+	}
+]

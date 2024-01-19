@@ -7,17 +7,17 @@ using UnityEngine;
 public class AreaData
 {
     public int Ordinate {get; set;}
-    public string RomajiName {get; set;}
-    public string KanjiName {get; set;}
-    public string FuriganaName {get; set;}
+    public string LatinName {get; set;}
+    public string NativeName {get; set;}
+    public string PhoneticName {get; set;}
     public string SpriteLocation {get; set;}
 
-    public AreaData(int ordinate, string romajiname, string kanjiname, string furigananame, string spritelocation)
+    public AreaData(int ordinate, string latinname, string nativename, string phoneticname, string spritelocation)
     {
         Ordinate = ordinate;
-        RomajiName = romajiname;
-        KanjiName = kanjiname;
-        FuriganaName = furigananame;
+        LatinName = latinname;
+        NativeName = nativename;
+        PhoneticName = phoneticname;
         SpriteLocation = spritelocation;
     }
 }

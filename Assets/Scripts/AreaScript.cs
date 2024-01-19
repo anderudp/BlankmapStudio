@@ -5,8 +5,8 @@ using UnityEngine;
 public class AreaScript : MonoBehaviour
 {
     public int ordinate;
-    public string kanjiName;
-    public string furiganaName;
+    public string nativeName;
+    public string phoneticName;
 
     private bool hasBeenClicked = false;
 
