@@ -1,0 +1,331 @@
+[
+	{
+		"Ordinate": 1,
+		"LatinName": "Hokkaido",
+		"NativeName": "北海道",
+		"PhoneticName": "ほっかいどう",
+		"SpriteLocation": "Japan/Prefectures/Hokkaido_in_Japan_(de-facto)"
+	},
+	{
+		"Ordinate": 2,
+		"LatinName": "Aomori",
+		"NativeName": "青森県",
+		"PhoneticName": "あおもりけん",
+		"SpriteLocation": "Japan/Prefectures/Aomori_in_Japan"
+	},
+	{
+		"Ordinate": 3,
+		"LatinName": "Iwate",
+		"NativeName": "岩手県",
+		"PhoneticName": "いわてけん",
+		"SpriteLocation": "Japan/Prefectures/Iwate_in_Japan"
+	},
+	{
+		"Ordinate": 4,
+		"LatinName": "Miyagi",
+		"NativeName": "宮城県",
+		"PhoneticName": "みやぎけん",
+		"SpriteLocation": "Japan/Prefectures/Miyagi_in_Japan"
+	},
+	{
+		"Ordinate": 5,
+		"LatinName": "Akita",
+		"NativeName": "秋田県",
+		"PhoneticName": "あきたけん",
+		"SpriteLocation": "Japan/Prefectures/Akita_in_Japan"
+	},
+	{
+		"Ordinate": 6,
+		"LatinName": "Yamagata",
+		"NativeName": "山形県",
+		"PhoneticName": "やまがたけん",
+		"SpriteLocation": "Japan/Prefectures/Yamagata_in_Japan"
+	},
+	{
+		"Ordinate": 7,
+		"LatinName": "Fukushima",
+		"NativeName": "福島県",
+		"PhoneticName": "ふくしまけん",
+		"SpriteLocation": "Japan/Prefectures/Fukushima_in_Japan"
+	},
+	{
+		"Ordinate": 8,
+		"LatinName": "Ibaraki",
+		"NativeName": "茨城県",
+		"PhoneticName": "いばらきけん",
+		"SpriteLocation": "Japan/Prefectures/Ibaraki_in_Japan"
+	},
+	{
+		"Ordinate": 9,
+		"LatinName": "Tochigi",
+		"NativeName": "栃木県",
+		"PhoneticName": "とちぎけん",
+		"SpriteLocation": "Japan/Prefectures/Tochigi_in_Japan"
+	},
+	{
+		"Ordinate": 10,
+		"LatinName": "Gunma",
+		"NativeName": "群馬県",
+		"PhoneticName": "ぐんまけん",
+		"SpriteLocation": "Japan/Prefectures/Gunma_in_Japan"
+	},
+	{
+		"Ordinate": 11,
+		"LatinName": "Saitama",
+		"NativeName": "埼玉県",
+		"PhoneticName": "さいたまけん",
+		"SpriteLocation": "Japan/Prefectures/Saitama_in_Japan"
+	},
+	{
+		"Ordinate": 12,
+		"LatinName": "Chiba",
+		"NativeName": "千葉県",
+		"PhoneticName": "ちばけん",
+		"SpriteLocation": "Japan/Prefectures/Chiba_in_Japan"
+	},
+	{
+		"Ordinate": 13,
+		"LatinName": "Tokyo",
+		"NativeName": "東京都",
+		"PhoneticName": "とうきょうと",
+		"SpriteLocation": "Japan/Prefectures/Tokyo_in_Japan"
+	},
+	{
+		"Ordinate": 14,
+		"LatinName": "Kanagawa",
+		"NativeName": "神奈川県",
+		"PhoneticName": "かながわけん",
+		"SpriteLocation": "Japan/Prefectures/Kanagawa_in_Japan"
+	},
+	{
+		"Ordinate": 15,
+		"LatinName": "Niigata",
+		"NativeName": "新潟県",
+		"PhoneticName": "にいがたけん",
+		"SpriteLocation": "Japan/Prefectures/Niigata_in_Japan"
+	},
+	{
+		"Ordinate": 16,
+		"LatinName": "Toyama",
+		"NativeName": "富山県",
+		"PhoneticName": "とやまけん",
+		"SpriteLocation": "Japan/Prefectures/Toyama_in_Japan"
+	},
+	{
+		"Ordinate": 17,
+		"LatinName": "Ishikawa",
+		"NativeName": "石川県",
+		"PhoneticName": "いしかわけん",
+		"SpriteLocation": "Japan/Prefectures/Ishikawa_in_Japan"
+	},
+	{
+		"Ordinate": 18,
+		"LatinName": "Fukui",
+		"NativeName": "福井県",
+		"PhoneticName": "ふくいけん",
+		"SpriteLocation": "Japan/Prefectures/Fukui_in_Japan"
+	},
+	{
+		"Ordinate": 19,
+		"LatinName": "Yamanashi",
+		"NativeName": "山梨県",
+		"PhoneticName": "やまなしけん",
+		"SpriteLocation": "Japan/Prefectures/Yamanashi_in_Japan"
+	},
+	{
+		"Ordinate": 20,
+		"LatinName": "Nagano",
+		"NativeName": "長野県",
+		"PhoneticName": "ながのけん",
+		"SpriteLocation": "Japan/Prefectures/Nagano_in_Japan"
+	},
+	{
+		"Ordinate": 21,
+		"LatinName": "Gifu",
+		"NativeName": "岐阜県",
+		"PhoneticName": "ぎふけん",
+		"SpriteLocation": "Japan/Prefectures/Gifu_in_Japan"
+	},
+	{
+		"Ordinate": 22,
+		"LatinName": "Shizuoka",
+		"NativeName": "静岡県",
+		"PhoneticName": "しずおかけん",
+		"SpriteLocation": "Japan/Prefectures/Shizuoka_in_Japan"
+	},
+	{
+		"Ordinate": 23,
+		"LatinName": "Aichi",
+		"NativeName": "愛知県",
+		"PhoneticName": "あいちけん",
+		"SpriteLocation": "Japan/Prefectures/Aichi_in_Japan"
+	},
+	{
+		"Ordinate": 24,
+		"LatinName": "Mie",
+		"NativeName": "三重県",
+		"PhoneticName": "みえけん",
+		"SpriteLocation": "Japan/Prefectures/Mie_in_Japan"
+	},
+	{
+		"Ordinate": 25,
+		"LatinName": "Shiga",
+		"NativeName": "滋賀県",
+		"PhoneticName": "しがけん",
+		"SpriteLocation": "Japan/Prefectures/Shiga_in_Japan"
+	},
+	{
+		"Ordinate": 26,
+		"LatinName": "Kyoto",
+		"NativeName": "京都府",
+		"PhoneticName": "きょうとふ",
+		"SpriteLocation": "Japan/Prefectures/Kyoto_in_Japan"
+	},
+	{
+		"Ordinate": 27,
+		"LatinName": "Osaka",
+		"NativeName": "大阪府",
+		"PhoneticName": "おおさかふ",
+		"SpriteLocation": "Japan/Prefectures/Osaka_in_Japan"
+	},
+	{
+		"Ordinate": 28,
+		"LatinName": "Hyogo",
+		"NativeName": "兵庫県",
+		"PhoneticName": "ひょうごけん",
+		"SpriteLocation": "Japan/Prefectures/Hyogo_in_Japan"
+	},
+	{
+		"Ordinate": 29,
+		"LatinName": "Nara",
+		"NativeName": "奈良県",
+		"PhoneticName": "ならけん",
+		"SpriteLocation": "Japan/Prefectures/Nara_in_Japan"
+	},
+	{
+		"Ordinate": 30,
+		"LatinName": "Wakayama",
+		"NativeName": "和歌山県",
+		"PhoneticName": "わかやまけん",
+		"SpriteLocation": "Japan/Prefectures/Wakayama_in_Japan"
+	},
+	{
+		"Ordinate": 31,
+		"LatinName": "Tottori",
+		"NativeName": "鳥取県",
+		"PhoneticName": "とっとりけん",
+		"SpriteLocation": "Japan/Prefectures/Tottori_in_Japan"
+	},
+	{
+		"Ordinate": 32,
+		"LatinName": "Shimane",
+		"NativeName": "島根県",
+		"PhoneticName": "しまねけん",
+		"SpriteLocation": "Japan/Prefectures/Shimane_in_Japan_(de-facto)"
+	},
+	{
+		"Ordinate": 33,
+		"LatinName": "Okayama",
+		"NativeName": "岡山県",
+		"PhoneticName": "おかやまけん",
+		"SpriteLocation": "Japan/Prefectures/Okayama_in_Japan"
+	},
+	{
+		"Ordinate": 34,
+		"LatinName": "Hiroshima",
+		"NativeName": "広島県",
+		"PhoneticName": "ひろしまけん",
+		"SpriteLocation": "Japan/Prefectures/Hiroshima_in_Japan"
+	},
+	{
+		"Ordinate": 35,
+		"LatinName": "Yamaguchi",
+		"NativeName": "山口県",
+		"PhoneticName": "やまぐちけん",
+		"SpriteLocation": "Japan/Prefectures/Yamaguchi_in_Japan"
+	},
+	{
+		"Ordinate": 36,
+		"LatinName": "Tokushima",
+		"NativeName": "徳島県",
+		"PhoneticName": "とくしまけん",
+		"SpriteLocation": "Japan/Prefectures/Tokushima_in_Japan"
+	},
+	{
+		"Ordinate": 37,
+		"LatinName": "Kagawa",
+		"NativeName": "香川県",
+		"PhoneticName": "かがわけん",
+		"SpriteLocation": "Japan/Prefectures/Kagawa_in_Japan"
+	},
+	{
+		"Ordinate": 38,
+		"LatinName": "Ehime",
+		"NativeName": "愛媛県",
+		"PhoneticName": "えひめけん",
+		"SpriteLocation": "Japan/Prefectures/Ehime_in_Japan"
+	},
+	{
+		"Ordinate": 39,
+		"LatinName": "Kochi",
+		"NativeName": "高知県",
+		"PhoneticName": "こうちけん",
+		"SpriteLocation": "Japan/Prefectures/Kochi_in_Japan"
+	},
+	{
+		"Ordinate": 40,
+		"LatinName": "Fukuoka",
+		"NativeName": "福岡県",
+		"PhoneticName": "ふくおかけん",
+		"SpriteLocation": "Japan/Prefectures/Fukuoka_in_Japan"
+	},
+	{
+		"Ordinate": 41,
+		"LatinName": "Saga",
+		"NativeName": "佐賀県",
+		"PhoneticName": "さがけん",
+		"SpriteLocation": "Japan/Prefectures/Saga_in_Japan"
+	},
+	{
+		"Ordinate": 42,
+		"LatinName": "Nagasaki",
+		"NativeName": "長崎県",
+		"PhoneticName": "ながさきけん",
+		"SpriteLocation": "Japan/Prefectures/Nagasaki_in_Japan"
+	},
+	{
+		"Ordinate": 43,
+		"LatinName": "Kumamoto",
+		"NativeName": "熊本県",
+		"PhoneticName": "くまもとけん",
+		"SpriteLocation": "Japan/Prefectures/Kumamoto_in_Japan"
+	},
+	{
+		"Ordinate": 44,
+		"LatinName": "Oita",
+		"NativeName": "大分県",
+		"PhoneticName": "おおいたけん",
+		"SpriteLocation": "Japan/Prefectures/Oita_in_Japan"
+	},
+	{
+		"Ordinate": 45,
+		"LatinName": "Miyazaki",
+		"NativeName": "宮崎県",
+		"PhoneticName": "みやざきけん",
+		"SpriteLocation": "Japan/Prefectures/Miyazaki_in_Japan"
+	},
+	{
+		"Ordinate": 46,
+		"LatinName": "Kagoshima",
+		"NativeName": "鹿児島県",
+		"PhoneticName": "かごしまけん",
+		"SpriteLocation": "Japan/Prefectures/Kagoshima_in_Japan"
+	},
+	{
+		"Ordinate": 47,
+		"LatinName": "Okinawa",
+		"NativeName": "沖縄県",
+		"PhoneticName": "おきなわけん",
+		"SpriteLocation": "Japan/Prefectures/Okinawa_in_Japan"
+	}
+]

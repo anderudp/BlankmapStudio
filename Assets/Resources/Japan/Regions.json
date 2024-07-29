@@ -1,0 +1,58 @@
+[
+	{
+		"Ordinate": 1,
+		"LatinName": "Hokkaido",
+		"NativeName": "北海道",
+		"PhoneticName": "ほっかいどう",
+		"SpriteLocation": "Japan/Regions/Hokkaido_in_Japan_(de-facto)"
+	},
+	{
+		"Ordinate": 2,
+		"LatinName": "Tohoku",
+		"NativeName": "東北",
+		"PhoneticName": "とうほく",
+		"SpriteLocation": "Japan/Regions/Tohoku_Region_in_Japan"
+	},
+	{
+		"Ordinate": 3,
+		"LatinName": "Kanto",
+		"NativeName": "関東",
+		"PhoneticName": "かんとう",
+		"SpriteLocation": "Japan/Regions/Kanto_Region_in_Japan"
+	},
+	{
+		"Ordinate": 4,
+		"LatinName": "Chubu",
+		"NativeName": "中部",
+		"PhoneticName": "ちゅうぶ",
+		"SpriteLocation": "Japan/Regions/Chubu_Region_in_Japan"
+	},
+	{
+		"Ordinate": 5,
+		"LatinName": "Kansai",
+		"NativeName": "関西",
+		"PhoneticName": "かんさい",
+		"SpriteLocation": "Japan/Regions/Kansai_Region_in_Japan"
+	},
+	{
+		"Ordinate": 6,
+		"LatinName": "Chugoku",
+		"NativeName": "中国",
+		"PhoneticName": "ちゅうごく",
+		"SpriteLocation": "Japan/Regions/Chugoku_Region_in_Japan"
+	},
+	{
+		"Ordinate": 7,
+		"LatinName": "Shikoku",
+		"NativeName": "四国",
+		"PhoneticName": "しこく",
+		"SpriteLocation": "Japan/Regions/Shikoku_Region_in_Japan"
+	},
+	{
+		"Ordinate": 8,
+		"LatinName": "Kyushu",
+		"NativeName": "九州",
+		"PhoneticName": "きゅうしゅう",
+		"SpriteLocation": "Japan/Regions/Kyushu_Region_in_Japan"
+	}
+]

@@ -2,11 +2,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CameraScript : MonoBehaviour {
+public class CameraScript : MonoBehaviour 
+{
     // Camera dragging
     private Vector3 mouseOrigin;
+    private Vector3 startMouseOrigin;
     private Vector3 mouseDifference;
     private bool isDragging = false;
+    public static bool clickEnable = true;
 
     // Zoom
     private Camera mainCamera;
@@ -19,17 +22,15 @@ public class CameraScript : MonoBehaviour {
     private Vector3 currentMax;
     private Vector3 currentMin;
     private Vector3 currentPos;
-    private Vector3 absoluteMax;
-    private Vector3 absoluteMin;
+    public static Vector3 absoluteMax = Vector3.zero;
+    public static Vector3 absoluteMin = Vector3.zero;
     private (Vector3, Vector3) minmax;
 
     void Start() 
     {
-        Screen.SetResolution(1134, 1024, false);
         mainCamera = GetComponent<Camera>();
         mainCamera.orthographicSize = maxCameraSize;
         
-
         minmax = OrthographicBounds();
 
         absoluteMin = minmax.Item1;
@@ -74,7 +75,7 @@ public class CameraScript : MonoBehaviour {
 
     private void AdjustPosition()
     {
-        if(Input.GetMouseButton(1)) 
+        if(Input.GetMouseButton(0)) 
         {
             mouseDifference = mainCamera.ScreenToWorldPoint(Input.mousePosition) - mainCamera.transform.position;
             if (isDragging == false)
@@ -84,7 +85,6 @@ public class CameraScript : MonoBehaviour {
             }
         } 
         else isDragging = false;
-
         if (isDragging == true) 
         {
             mainCamera.transform.position = mouseOrigin - mouseDifference;

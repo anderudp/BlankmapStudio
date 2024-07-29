@@ -7,25 +7,35 @@ using Newtonsoft.Json;
 
 public class GenerateAreas : MonoBehaviour
 {
-    public string jsonName;
-
     AreaData[] areas;
 
     // Preallocate space for individual region object components
-    GameObject areaObject ;
+    GameObject areaObject;
     AreaScript areaScript;
     SpriteRenderer areaRenderer;
     AdvancedPolygonCollider areaCollider;
 
+    GameObject background;
+    SpriteRenderer bgRenderer;
+
+    Vector3 mapPosition;
     void Start()
     {
-        string jsonContents = Resources.Load<TextAsset>(jsonName).ToString();
+        string jsonContents = Resources.Load<TextAsset>($"{GameParams.FolderName}/{GameParams.JsonName}").ToString();
         areas = JsonConvert.DeserializeObject<AreaData[]>(jsonContents);
+
+        background = new GameObject("Background");
+        bgRenderer = background.AddComponent<SpriteRenderer>();
+        bgRenderer.sprite = Resources.Load<Sprite>($"{GameParams.FolderName}/Background");
+
+        mapPosition = bgRenderer.sprite.bounds.max - CameraScript.absoluteMax;
+        background.transform.position = mapPosition;
 
         foreach (AreaData areaData in areas)
         {
             areaObject = new GameObject(areaData.LatinName);
             areaObject.transform.parent = this.transform;
+            areaObject.transform.position = mapPosition;
 
             areaScript = areaObject.AddComponent<AreaScript>();
             areaScript.ordinate = areaData.Ordinate;
@@ -38,11 +48,5 @@ public class GenerateAreas : MonoBehaviour
 
             areaCollider = areaObject.AddComponent<AdvancedPolygonCollider>();
         }
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }
