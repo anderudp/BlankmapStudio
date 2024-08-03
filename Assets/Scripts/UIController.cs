@@ -83,6 +83,7 @@ public class UIController : MonoBehaviour
         while(correctAreas.Contains(selectedArea) || missedAreas.Contains(selectedArea));
 
         areaInput.text = selectedArea.nativeName;
+        ChangePhoneticDisplay(phoneticCheckbox.isOn);
     }
 
     void ChangePhoneticDisplay(bool isChecked)
