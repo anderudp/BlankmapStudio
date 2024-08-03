@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using DigitalRuby.AdvancedPolygonCollider;
 
 public class AreaScript : MonoBehaviour
 {
@@ -22,6 +23,7 @@ public class AreaScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        gameObject.AddComponent<AdvancedPolygonCollider>();
         sr = GetComponent<SpriteRenderer>();
         sr.color = defaultColor;
     }
@@ -38,6 +40,7 @@ public class AreaScript : MonoBehaviour
 
     private void OnMouseUpAsButton() 
     {
+        if(hasBeenClicked) return;
         hasBeenClicked = true;
         sr.color = UIController.selectedArea == this ? correctColor : missedColor;
         AreaClicked?.Invoke(this, EventArgs.Empty);

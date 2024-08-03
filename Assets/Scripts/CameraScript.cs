@@ -75,7 +75,7 @@ public class CameraScript : MonoBehaviour
 
     private void AdjustPosition()
     {
-        if(Input.GetMouseButton(0)) 
+        if(Input.GetMouseButton(1)) 
         {
             mouseDifference = mainCamera.ScreenToWorldPoint(Input.mousePosition) - mainCamera.transform.position;
             if (isDragging == false)

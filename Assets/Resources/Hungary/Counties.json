@@ -1,0 +1,142 @@
+[
+    {
+        "Ordinate": 1,
+        "LatinName": "Bacs-Kiskun",
+        "NativeName": "Bács-Kiskun",
+        "PhoneticName": "",
+        "SpriteLocation": "Hungary/Counties/Bacs-Kiskun"
+    },
+    {
+        "Ordinate": 2,
+        "LatinName": "Baranya",
+        "NativeName": "Baranya",
+        "PhoneticName": "",
+        "SpriteLocation": "Hungary/Counties/Baranya"
+    },
+    {
+        "Ordinate": 3,
+        "LatinName": "Bekes",
+        "NativeName": "Békés",
+        "PhoneticName": "",
+        "SpriteLocation": "Hungary/Counties/Bekes"
+    },
+    {
+        "Ordinate": 4,
+        "LatinName": "Borsod-Abauj-Zemplen",
+        "NativeName": "Borsod-Abaúj-Zemplén",
+        "PhoneticName": "",
+        "SpriteLocation": "Hungary/Counties/Borsod-Abauj-Zemplen"
+    },
+    {
+        "Ordinate": 5,
+        "LatinName": "Budapest",
+        "NativeName": "Budapest",
+        "PhoneticName": "",
+        "SpriteLocation": "Hungary/Counties/Budapest"
+    },
+    {
+        "Ordinate": 6,
+        "LatinName": "Csongrad",
+        "NativeName": "Csongrád",
+        "PhoneticName": "",
+        "SpriteLocation": "Hungary/Counties/Csongrad"
+    },
+    {
+        "Ordinate": 7,
+        "LatinName": "Fejer",
+        "NativeName": "Fejér",
+        "PhoneticName": "",
+        "SpriteLocation": "Hungary/Counties/Fejer"
+    },
+    {
+        "Ordinate": 8,
+        "LatinName": "Gyor-Moson-Sopron",
+        "NativeName": "Győr-Moson-Sopron",
+        "PhoneticName": "",
+        "SpriteLocation": "Hungary/Counties/Gyor-Moson-Sopron"
+    },
+    {
+        "Ordinate": 9,
+        "LatinName": "Hajdu-Bihar",
+        "NativeName": "Hajdú-Bihar",
+        "PhoneticName": "",
+        "SpriteLocation": "Hungary/Counties/Hajdu-Bihar"
+    },
+    {
+        "Ordinate": 10,
+        "LatinName": "Heves",
+        "NativeName": "Heves",
+        "PhoneticName": "",
+        "SpriteLocation": "Hungary/Counties/Heves"
+    },
+    {
+        "Ordinate": 11,
+        "LatinName": "Jasz-Nagykun-Szolnok",
+        "NativeName": "Jász-Nagykun-Szolnok",
+        "PhoneticName": "",
+        "SpriteLocation": "Hungary/Counties/Jasz-Nagykun-Szolnok"
+    },
+    {
+        "Ordinate": 12,
+        "LatinName": "Komarom-Esztergom",
+        "NativeName": "Komárom-Esztergom",
+        "PhoneticName": "",
+        "SpriteLocation": "Hungary/Counties/Komarom-Esztergom"
+    },
+    {
+        "Ordinate": 13,
+        "LatinName": "Nograd",
+        "NativeName": "Nógrád",
+        "PhoneticName": "",
+        "SpriteLocation": "Hungary/Counties/Nograd"
+    },
+    {
+        "Ordinate": 14,
+        "LatinName": "Somogy",
+        "NativeName": "Somogy",
+        "PhoneticName": "",
+        "SpriteLocation": "Hungary/Counties/Somogy"
+    },
+    {
+        "Ordinate": 15,
+        "LatinName": "Szabolcs-Szatmar-Bereg",
+        "NativeName": "Szabolcs-Szatmár-Bereg",
+        "PhoneticName": "",
+        "SpriteLocation": "Hungary/Counties/Szabolcs-Szatmar-Bereg"
+    },
+    {
+        "Ordinate": 16,
+        "LatinName": "Tolna",
+        "NativeName": "Tolna",
+        "PhoneticName": "",
+        "SpriteLocation": "Hungary/Counties/Tolna"
+    },
+    {
+        "Ordinate": 17,
+        "LatinName": "Vas",
+        "NativeName": "Vas",
+        "PhoneticName": "",
+        "SpriteLocation": "Hungary/Counties/Vas"
+    },
+    {
+        "Ordinate": 18,
+        "LatinName": "Veszprem",
+        "NativeName": "Veszprém",
+        "PhoneticName": "",
+        "SpriteLocation": "Hungary/Counties/Veszprem"
+    },
+    {
+        "Ordinate": 19,
+        "LatinName": "Zala",
+        "NativeName": "Zala",
+        "PhoneticName": "",
+        "SpriteLocation": "Hungary/Counties/Zala"
+    },
+    {
+        "Ordinate": 20,
+        "LatinName": "Pest",
+        "NativeName": "Pest",
+        "PhoneticName": "",
+        "SpriteLocation": "Hungary/Counties/Pest"
+    }
+]

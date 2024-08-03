@@ -1,0 +1,352 @@
+[
+    {
+        "Ordinate": 1,
+        "LatinName": "Alaska",
+        "NativeName": "Alaska",
+        "PhoneticName": "アラスカ州",
+        "SpriteLocation": "United States/States/Alaska"
+    },
+    {
+        "Ordinate": 2,
+        "LatinName": "Arizona",
+        "NativeName": "Arizona",
+        "PhoneticName": "アリゾナ州",
+        "SpriteLocation": "United States/States/Arizona"
+    },
+    {
+        "Ordinate": 3,
+        "LatinName": "Arkansas",
+        "NativeName": "Arkansas",
+        "PhoneticName": "アーカンソー州",
+        "SpriteLocation": "United States/States/Arkansas"
+    },
+    {
+        "Ordinate": 4,
+        "LatinName": "California",
+        "NativeName": "California",
+        "PhoneticName": "カリフォルニア州",
+        "SpriteLocation": "United States/States/California"
+    },
+    {
+        "Ordinate": 5,
+        "LatinName": "Delaware",
+        "NativeName": "Delaware",
+        "PhoneticName": "デラウェア州",
+        "SpriteLocation": "United States/States/Delaware"
+    },
+    {
+        "Ordinate": 6,
+        "LatinName": "Florida",
+        "NativeName": "Florida",
+        "PhoneticName": "フロリダ州",
+        "SpriteLocation": "United States/States/Florida"
+    },
+    {
+        "Ordinate": 7,
+        "LatinName": "Georgia",
+        "NativeName": "Georgia",
+        "PhoneticName": "ジョージア州",
+        "SpriteLocation": "United States/States/Georgia"
+    },
+    {
+        "Ordinate": 8,
+        "LatinName": "Hawaii",
+        "NativeName": "Hawaii",
+        "PhoneticName": "ハワイ州",
+        "SpriteLocation": "United States/States/Hawaii"
+    },
+    {
+        "Ordinate": 9,
+        "LatinName": "Idaho",
+        "NativeName": "Idaho",
+        "PhoneticName": "アイダホ州",
+        "SpriteLocation": "United States/States/Idaho"
+    },
+    {
+        "Ordinate": 10,
+        "LatinName": "Illinois",
+        "NativeName": "Illinois",
+        "PhoneticName": "イリノイ州",
+        "SpriteLocation": "United States/States/Illinois"
+    },
+    {
+        "Ordinate": 11,
+        "LatinName": "Indiana",
+        "NativeName": "Indiana",
+        "PhoneticName": "インディアナ州",
+        "SpriteLocation": "United States/States/Indiana"
+    },
+    {
+        "Ordinate": 12,
+        "LatinName": "Iowa",
+        "NativeName": "Iowa",
+        "PhoneticName": "アイオワ州",
+        "SpriteLocation": "United States/States/Iowa"
+    },
+    {
+        "Ordinate": 13,
+        "LatinName": "Louisiana",
+        "NativeName": "Louisiana",
+        "PhoneticName": "ルイジアナ州",
+        "SpriteLocation": "United States/States/Louisiana"
+    },
+    {
+        "Ordinate": 14,
+        "LatinName": "Maine",
+        "NativeName": "Maine",
+        "PhoneticName": "メイン州",
+        "SpriteLocation": "United States/States/Maine"
+    },
+    {
+        "Ordinate": 15,
+        "LatinName": "Maryland",
+        "NativeName": "Maryland",
+        "PhoneticName": "メリーランド州",
+        "SpriteLocation": "United States/States/Maryland"
+    },
+    {
+        "Ordinate": 16,
+        "LatinName": "Michigan",
+        "NativeName": "Michigan",
+        "PhoneticName": "ミシガン州",
+        "SpriteLocation": "United States/States/Michigan"
+    },
+    {
+        "Ordinate": 17,
+        "LatinName": "Minnesota",
+        "NativeName": "Minnesota",
+        "PhoneticName": "ミネソタ州",
+        "SpriteLocation": "United States/States/Minnesota"
+    },
+    {
+        "Ordinate": 18,
+        "LatinName": "Mississippi",
+        "NativeName": "Mississippi",
+        "PhoneticName": "ミシシッピ州",
+        "SpriteLocation": "United States/States/Mississippi"
+    },
+    {
+        "Ordinate": 19,
+        "LatinName": "Nebraska",
+        "NativeName": "Nebraska",
+        "PhoneticName": "ネブラスカ州",
+        "SpriteLocation": "United States/States/Nebraska"
+    },
+    {
+        "Ordinate": 20,
+        "LatinName": "Nevada",
+        "NativeName": "Nevada",
+        "PhoneticName": "ネバダ州",
+        "SpriteLocation": "United States/States/Nevada"
+    },
+    {
+        "Ordinate": 21,
+        "LatinName": "New Hampshire",
+        "NativeName": "New Hampshire",
+        "PhoneticName": "ニューハンプシャー州",
+        "SpriteLocation": "United States/States/New_Hampshire"
+    },
+    {
+        "Ordinate": 22,
+        "LatinName": "New Jersey",
+        "NativeName": "New Jersey",
+        "PhoneticName": "ニュージャージー州",
+        "SpriteLocation": "United States/States/New_Jersey"
+    },
+    {
+        "Ordinate": 23,
+        "LatinName": "New Mexico",
+        "NativeName": "New Mexico",
+        "PhoneticName": "ニューメキシコ州",
+        "SpriteLocation": "United States/States/New_Mexico"
+    },
+    {
+        "Ordinate": 24,
+        "LatinName": "New York",
+        "NativeName": "New York",
+        "PhoneticName": "ニューヨーク州",
+        "SpriteLocation": "United States/States/New_York"
+    },
+    {
+        "Ordinate": 25,
+        "LatinName": "North Carolina",
+        "NativeName": "North Carolina",
+        "PhoneticName": "ノースカロライナ州",
+        "SpriteLocation": "United States/States/North_Carolina"
+    },
+    {
+        "Ordinate": 26,
+        "LatinName": "North Dakota",
+        "NativeName": "North Dakota",
+        "PhoneticName": "ノースダコタ州",
+        "SpriteLocation": "United States/States/North_Dakota"
+    },
+    {
+        "Ordinate": 27,
+        "LatinName": "Ohio",
+        "NativeName": "Ohio",
+        "PhoneticName": "オハイオ州",
+        "SpriteLocation": "United States/States/Ohio"
+    },
+    {
+        "Ordinate": 28,
+        "LatinName": "Oklahoma",
+        "NativeName": "Oklahoma",
+        "PhoneticName": "オクラホマ州",
+        "SpriteLocation": "United States/States/Oklahoma"
+    },
+    {
+        "Ordinate": 29,
+        "LatinName": "South Carolina",
+        "NativeName": "South Carolina",
+        "PhoneticName": "サウスカロライナ州",
+        "SpriteLocation": "United States/States/South_Carolina"
+    },
+    {
+        "Ordinate": 30,
+        "LatinName": "South Dakota",
+        "NativeName": "South Dakota",
+        "PhoneticName": "サウスダコタ州",
+        "SpriteLocation": "United States/States/South_Dakota"
+    },
+    {
+        "Ordinate": 31,
+        "LatinName": "Tennessee",
+        "NativeName": "Tennessee",
+        "PhoneticName": "テネシー州",
+        "SpriteLocation": "United States/States/Tennessee"
+    },
+    {
+        "Ordinate": 32,
+        "LatinName": "Texas",
+        "NativeName": "Texas",
+        "PhoneticName": "テキサス州",
+        "SpriteLocation": "United States/States/Texas"
+    },
+    {
+        "Ordinate": 33,
+        "LatinName": "Utah",
+        "NativeName": "Utah",
+        "PhoneticName": "ユタ州",
+        "SpriteLocation": "United States/States/Utah"
+    },
+    {
+        "Ordinate": 34,
+        "LatinName": "Vermont",
+        "NativeName": "Vermont",
+        "PhoneticName": "バーモント州",
+        "SpriteLocation": "United States/States/Vermont"
+    },
+    {
+        "Ordinate": 35,
+        "LatinName": "Virginia",
+        "NativeName": "Virginia",
+        "PhoneticName": "バージニア州",
+        "SpriteLocation": "United States/States/Virginia"
+    },
+    {
+        "Ordinate": 36,
+        "LatinName": "West Virginia",
+        "NativeName": "West Virginia",
+        "PhoneticName": "ウェストバージニア州",
+        "SpriteLocation": "United States/States/West_Virginia"
+    },
+    {
+        "Ordinate": 37,
+        "LatinName": "Alabama",
+        "NativeName": "Alabama",
+        "PhoneticName": "アラバマ州",
+        "SpriteLocation": "United States/States/Alabama"
+    },
+    {
+        "Ordinate": 38,
+        "LatinName": "Colorado",
+        "NativeName": "Colorado",
+        "PhoneticName": "コロラド州",
+        "SpriteLocation": "United States/States/Colorado"
+    },
+    {
+        "Ordinate": 39,
+        "LatinName": "Connecticut",
+        "NativeName": "Connecticut",
+        "PhoneticName": "コネチカット州",
+        "SpriteLocation": "United States/States/Connecticut"
+    },
+    {
+        "Ordinate": 40,
+        "LatinName": "Kansas",
+        "NativeName": "Kansas",
+        "PhoneticName": "カンザス州",
+        "SpriteLocation": "United States/States/Kansas"
+    },
+    {
+        "Ordinate": 41,
+        "LatinName": "Kentucky",
+        "NativeName": "Kentucky",
+        "PhoneticName": "ケンタッキー州",
+        "SpriteLocation": "United States/States/Kentucky"
+    },
+    {
+        "Ordinate": 42,
+        "LatinName": "Massachusetts",
+        "NativeName": "Massachusetts",
+        "PhoneticName": "マサチューセッツ州",
+        "SpriteLocation": "United States/States/Massachusetts"
+    },
+    {
+        "Ordinate": 43,
+        "LatinName": "Missouri",
+        "NativeName": "Missouri",
+        "PhoneticName": "ミズーリ州",
+        "SpriteLocation": "United States/States/Missouri"
+    },
+    {
+        "Ordinate": 44,
+        "LatinName": "Montana",
+        "NativeName": "Montana",
+        "PhoneticName": "モンタナ州",
+        "SpriteLocation": "United States/States/Montana"
+    },
+    {
+        "Ordinate": 45,
+        "LatinName": "Oregon",
+        "NativeName": "Oregon",
+        "PhoneticName": "オレゴン州",
+        "SpriteLocation": "United States/States/Oregon"
+    },
+    {
+        "Ordinate": 46,
+        "LatinName": "Pennsylvania",
+        "NativeName": "Pennsylvania",
+        "PhoneticName": "ペンシルベニア州",
+        "SpriteLocation": "United States/States/Pennsylvania"
+    },
+    {
+        "Ordinate": 47,
+        "LatinName": "Rhode Island",
+        "NativeName": "Rhode Island",
+        "PhoneticName": "ロードアイランド州",
+        "SpriteLocation": "United States/States/Rhode_Island"
+    },
+    {
+        "Ordinate": 48,
+        "LatinName": "Washington",
+        "NativeName": "Washington",
+        "PhoneticName": "ワシントン州",
+        "SpriteLocation": "United States/States/Washington"
+    },
+    {
+        "Ordinate": 49,
+        "LatinName": "Wisconsin",
+        "NativeName": "Wisconsin",
+        "PhoneticName": "ウィスコンシン州",
+        "SpriteLocation": "United States/States/Wisconsin"
+    },
+    {
+        "Ordinate": 50,
+        "LatinName": "Wyoming",
+        "NativeName": "Wyoming",
+        "PhoneticName": "ワイオミング州",
+        "SpriteLocation": "United States/States/Wyoming"
+    }
+]

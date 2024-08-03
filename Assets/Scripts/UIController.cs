@@ -5,14 +5,20 @@ using System.IO.Compression;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class UIController : MonoBehaviour
 {
     public TMP_Text scoreText;
     public TMP_Text pctText;
     public TMP_Text phoneticText;
+    public TMP_Text timerText;
     public TMP_InputField areaInput;
     public Toggle phoneticCheckbox;
+    public Button restartButton;
+    public Button menuButton;
+    private int timerSecs;
+    private bool countdownOn;
 
     public static AreaScript selectedArea;
     private int maxAreas;
@@ -32,12 +38,20 @@ public class UIController : MonoBehaviour
         {
             area.GetComponent<AreaScript>().AreaClicked += OnAreaClicked;
         }
+        phoneticCheckbox.onValueChanged.AddListener(delegate{ChangePhoneticDisplay(phoneticCheckbox.isOn);});
+        phoneticCheckbox.isOn = false;
+        ChangePhoneticDisplay(phoneticCheckbox.isOn);
+        restartButton.onClick.AddListener(delegate{SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);});
+        menuButton.onClick.AddListener(delegate{SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);});
+        timerSecs = 300;
+        countdownOn = true;
+        CountDown();
     }
 
     // Update is called once per frame
     void Update()
     {
-        phoneticText.text = phoneticCheckbox.isOn ? selectedArea.phoneticName : " ";
+        
     }
 
     void OnAreaClicked(object sender, EventArgs e)
@@ -54,6 +68,10 @@ public class UIController : MonoBehaviour
         {
             if(correctGuess) ChangeSelectedArea();
         }
+        else
+        {
+            countdownOn = false;
+        }
     }
 
     void ChangeSelectedArea()
@@ -65,5 +83,20 @@ public class UIController : MonoBehaviour
         while(correctAreas.Contains(selectedArea) || missedAreas.Contains(selectedArea));
 
         areaInput.text = selectedArea.nativeName;
+    }
+
+    void ChangePhoneticDisplay(bool isChecked)
+    {
+        phoneticText.text = isChecked ? selectedArea.phoneticName : "";
+    }
+
+    void CountDown()
+    {
+        if(timerSecs > 1 && countdownOn)
+        {
+            timerSecs--;
+            timerText.text = $"{(int)(timerSecs / 60)}:{(timerSecs % 60).ToString("D2")}";
+            Invoke("CountDown", 1f);
+        }
     }
 }
