@@ -15,6 +15,6 @@ Continously expanding to new areas...
 (TBA) Customize game rules and behavior using a simple JSON-based markup.
 
 # Attribution
-All maps found in `Assets/Resources` are modified versions of the locator map schemes created by Wikimedia Commons, published under the Creative Commons Attribution-Share Alike 3.0 Unported license.
+All maps found in `Assets/Resources` are modified versions of the locator map schemes created by Wikimedia Commons, published under the Creative Commons Attribution-Share Alike 3.0 Unported license. These license terms still apply to any and all image files found in the above folder.
 
 Cursor hover detection on map regions uses [Jeff Johnson's Advanced Polygon Collider](https://assetstore.unity.com/packages/tools/physics/advanced-polygon-collider-52265) licensed under the Standard Unity Asset Store EULA.
